@@ -1,4 +1,4 @@
-# Product-Photo-Automation
+# Product Photo Automation
 ## Project Overview
 
 This project was delivered to automate your product image enhancement workflow and eliminate the repetitive, time-consuming process of manually cleaning up product photos.
